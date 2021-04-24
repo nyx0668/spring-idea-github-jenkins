@@ -8,6 +8,7 @@ class SpringIdeaGithubJenkinsApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("a");
     }
 
 }

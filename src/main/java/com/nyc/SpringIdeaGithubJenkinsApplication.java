@@ -7,7 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringIdeaGithubJenkinsApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringIdeaGithubJenkinsApplication.class, args);
+
+        SpringApplication.run(SpringIdeaGithubJenkinsApplication.class, args
+
+        );
     }
 
 }
